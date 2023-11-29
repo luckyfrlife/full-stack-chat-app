@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.6.2",
+    "react-chat-engine-advanced": "^0.1.28",
+    "react-chat-engine-pretty": "^0.1.8"
+  }
+}
